@@ -1,0 +1,8 @@
+[
+  {"StudentName": "John", "TeacherName": "Andrea", "AptDate": "2022-05-12 13:30", "AptNotes": "Discuss Assignment 3"},
+  {"StudentName": "Mark", "TeacherName": "Chris", "AptDate": "2022-05-12 14:30", "AptNotes": "Help with Foundation"},
+  {"StudentName": "Albert", "TeacherName": "Andrea", "AptDate": "2022-05-12 15:30", "AptNotes": "Discuss attendance"},
+  {"StudentName": "Mary", "TeacherName": "Andrea", "AptDate": "2022-05-13 13:30", "AptNotes": "Discuss Assignment 3"},
+  {"StudentName": "Rose", "TeacherName": "Chris", "AptDate": "2022-05-14 09:30", "AptNotes": "Help with Foundation"},
+  {"StudentName": "David", "TeacherName": "Chris", "AptDate": "2022-05-14 10:30", "AptNotes": "Discuss Assignment 2"}
+]
