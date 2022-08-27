@@ -19,7 +19,7 @@ function AptManager(){
                 new Appointment(totalApts++, aptData.StudentName, aptData.TeacherName, new Date(aptData.AptDate), aptData.AptNotes));
             setApts(apts);
         });
-    }, apts);
+    }, []);
 
     return <div>
         <h1>Appointments Manager</h1>
