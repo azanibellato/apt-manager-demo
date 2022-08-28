@@ -1,0 +1,21 @@
+
+:root {
+    --table-body-hover-back-color: #ccc;
+}
+
+table:not(.horizontal){
+    max-height: 600px;
+}
+
+.remove-btn, .remove-btn:focus{
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    line-height: 1rem;
+    padding:0.3rem;
+    margin: 0;
+}
+
+.remove-btn:hover{
+    background-color: darkred;
+}
