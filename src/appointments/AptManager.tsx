@@ -28,7 +28,7 @@ function AptManager(){
     }, []);
 
     return <div className="container">
-        <h1>Appointments Manager</h1>
+        <h1 className='main-title'>Appointments Manager</h1>
         <table className='hoverable'>
             <thead>
                 <tr>
